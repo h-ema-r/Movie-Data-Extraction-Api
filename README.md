@@ -8,4 +8,4 @@ The Movie Database (TMDb) is a community built movie and TV database.
 I have extracted 
 data from 500 pages conating data about popular movies.
 
-The shape of extracted dataset is (10,000,7)
+The shape of extracted dataset is (10000,7)
