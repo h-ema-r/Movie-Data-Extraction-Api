@@ -3,8 +3,8 @@
 
 This project is about extracting data using APIs by requets library.
 
-The website Used is
-The Movie Database (TMDb) whych is a community built movie and TV database.
+The Movie Database (TMDb) website is used.
+The Movie Database (TMDb) is a community built movie and TV database.
 I have extracted 
 data from 500 pages conating data about popular movies.
 
